@@ -8,6 +8,12 @@ Tek Tier items have not yet been introduced until the extinction map release; al
 - Cave Drop: Tier 2 and Tier 3 items with a 50% blueprint chance.
 - Boss Drop: Tier 2 and Tier 3 items with a 50% chance of blueprint on gamma difficulty, a 75% chance of blueprint on beta difficulty, and a 100% chance of blueprint on alpha difficulty.
 
+**Drop quantity**
+- World Drop Normal: Max 2 items.
+- World Drop Bonus: Max 3 items.
+- Cave Drop: Max 3 items.
+- Boss Drop: Max 3 items.
+
 **Quality drop rate**  
 *All quality will be based on the drop color.*
 - White: Primitive quality.

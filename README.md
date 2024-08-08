@@ -12,12 +12,12 @@ Tek Tier items have not yet been introduced until the extinction map release; al
 - World Drop Normal: Max 2 items.
 - World Drop Bonus: Max 3 items.
 - Cave Drop: Max 3 items.
-- Boss Drop: Max 3 items.
+- Boss Drop: Max 4 items.
 
-**Quality drop rate**  
+**Quality drop rate**
 *All quality will be based on the drop color.*
 - White: Primitive quality.
-- Green: Ramshakle quality.
+- Green: Ramshackle quality.
 - Purple: Journeyman quality.
 - Yellow: Mastercraft quality.
 - Red: Ascendant quality.

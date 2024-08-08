@@ -72,6 +72,7 @@
 - Castoroides
 - Chalicotherium
 - Daeodon
+- Deinosuchus
 - Diplodocus
 - Direbear
 - Dunkleosteus

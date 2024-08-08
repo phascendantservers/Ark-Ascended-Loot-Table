@@ -28,6 +28,7 @@
 - Sword
 - Lance
 - Electric Prod
+- Whip
 
 ### Tier 3 Weapon
 - Long Neck

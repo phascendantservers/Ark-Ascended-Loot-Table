@@ -1,51 +1,35 @@
-# Scorched Earth Loot Table
+# Scourched Earth Loot Table
 
-### Tier 1 Armor
-- Hide Set
-- Chitin Set
+## Tier 1
+
+### Tool
+- Metal Pick
+- Metal Hatchet
+- Metal Sickle
+
+### Armor
+- Hide Hat
+- Hide Shirt
+- Hide Pants
+- Hide Boots
+- Hide Gloves
+- Chitin Helmet
+- Chitin Chestpiece
+- Chitin Leggings
+- Chitin Boots
+- Chitin Gauntlets
 - Wooden Shield
 
-### Tier 2 Armor
-- Fur Set
-- Ghillie Set
-- Scuba Set
-
-### Tier 3 Armor
-- Flak Set
-- Riot Set
-- Metal Shield
-- Riot Shield
-
-### Tier 1 Weapon
+### Weapon
 - Bow
 - Crossbow
 - Wooden Club
 - Pike
-
-### Tier 2 Weapon
 - Simple Pistol
 - Shotgun
-- Sword
-- Lance
-- Electric Prod
 - Whip
 
-### Tier 3 Weapon
-- Long Neck
-- Pump-Shotgun
-- Compound Bow
-- Assault Rifle
-- Fabricated Pistol
-- Fabricated Sniper Rifle
-
-### Tier 1 Tools
-- Metal Pick
-- Metal Hatchet
-
-### Tier 3 Tools
-- Chainsaw
-
-### Tier 1 Saddles
+### Saddle
 - Ankylosaurus
 - Doedicurus
 - Lymantria
@@ -54,7 +38,30 @@
 - Pulmonoscorpius
 - Raptor
 
-### Tier 2 Saddles
+## Tier 2
+
+### Tool
+- (No items in this category for Tier 2)
+
+### Armor
+- Ghillie Mask
+- Ghillie Chestpiece
+- Ghillie Leggings
+- Ghillie Boots
+- Ghillie Gauntlets
+- Desert Cloth Goggles and Hat
+- Desert Cloth Shirt
+- Desert Cloth Pants
+- Desert Cloth Boots
+- Desert Cloth Gloves
+
+### Weapon
+- Sword
+- Lance
+- Electric Prod
+- Long Neck Rifle
+
+### Saddle
 - Araneo
 - Argentavis
 - Arthropluera
@@ -79,7 +86,32 @@
 - Thylacoleo
 - Yutyrannus
 
-### Tier 3 Saddles
-- Fasolasuchus
-- Rock Golem
+## Tier 3
 
+### Tool
+- Chainsaw
+
+### Armor
+- Flak Helmet
+- Flak Chestpiece
+- Flak Leggings
+- Flak Boots
+- Flak Gauntlets
+- Riot Helmet
+- Riot Chestpiece
+- Riot Leggings
+- Riot Boots
+- Riot Gauntlets
+- Metal Shield
+- Riot Shield
+
+### Weapon
+- Pump-Shotgun
+- Compound Bow
+- Assault Rifle
+- Fabricated Pistol
+- Fabricated Sniper Rifle
+
+### Saddle
+- Fasolasuchus
+- Rock Elemental

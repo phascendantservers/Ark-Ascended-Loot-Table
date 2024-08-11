@@ -81,8 +81,10 @@
 - Brontosaurus
 - Carnotaurus
 - Castoroides
+- Ceratosaurus
 - Chalicotherium
 - Daeodon
+- Deinosuchus
 - Diplodocus
 - Direbear
 - Dunkleosteus

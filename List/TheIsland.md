@@ -84,6 +84,7 @@
 - Ceratosaurus
 - Chalicotherium
 - Daeodon
+- Deinosuchus
 - Diplodocus
 - Direbear
 - Dunkleosteus
@@ -98,6 +99,7 @@
 - Megalania
 - Megaloceros
 - Megalosaurus
+- Megalodon
 - Megatherium
 - Mosasaurus
 - Pachyrhinosaurus

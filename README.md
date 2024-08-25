@@ -7,6 +7,8 @@ Tek Tier items have not yet been introduced until the extinction map release; al
 - World Drop: Tier 1 items with a 10% blueprint chance.
 - Cave Drop: Tier 2 and Tier 3 items with a 50% blueprint chance.
 - Boss Drop: Tier 2 and Tier 3 items with a 50% chance of blueprint on gamma difficulty, a 75% chance of blueprint on beta difficulty, and a 100% chance of blueprint on alpha difficulty.
+- Aberration Drop: Tier 1 items with a 10% blueprint chance.
+- Aberration Surface and Cave: Tier 2 and Tier 3 items with a 50% blueprint chance.
 
 **Drop quantity**
 - World Drop Normal: 3 items.

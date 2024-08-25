@@ -30,3 +30,4 @@ Tek Tier items have not yet been introduced until the extinction map release; al
 [The Island](https://github.com/phascendantservers/Ark-Ascended-Loot-Table/blob/main/List/TheIsland.md)  
 [Scorched Earth](https://github.com/phascendantservers/Ark-Ascended-Loot-Table/blob/main/List/ScorchedEarth.md)  
 [The Center](https://github.com/phascendantservers/Ark-Ascended-Loot-Table/blob/main/List/TheCenter.md)
+[Aberration](https://github.com/phascendantservers/Ark-Ascended-Loot-Table/blob/main/List/Aberration.md)
